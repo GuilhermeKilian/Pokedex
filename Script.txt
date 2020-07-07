@@ -1,6 +1,6 @@
 CREATE DATABASE pokedex
 
-USE Pokedex
+USE pokedex
 
 CREATE TABLE pokemon (
 id INTEGER(3) ZEROFILL NOT NULL AUTO_INCREMENT,
